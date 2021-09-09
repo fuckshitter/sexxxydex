@@ -50,6 +50,7 @@
     "@web3-react/core": "^6.1.9",
     "@web3-react/injected-connector": "^6.0.7",
     "@web3-react/walletconnect-connector": "^6.1.9",
+    "babel": "^6.23.0",
     "bignumber.js": "^9.0.0",
     "canvas-confetti": "^1.3.3",
     "chart.js": "^2.9.4",
@@ -58,9 +59,10 @@
     "graphql": "^15.5.0",
     "graphql-request": "^3.4.0",
     "js-cookie": "^2.2.1",
+    "jsx-runtime": "^1.2.0",
     "lodash": "^4.17.20",
     "node-fetch": "^2.6.1",
-    "react": "^17.0.1",
+    "react": "^17.0.2",
     "react-chartjs-2": "^2.11.1",
     "react-countup": "^4.3.3",
     "react-dom": "^17.0.1",
@@ -93,5 +95,9 @@
     "prettier": "^2.1.2",
     "source-map-explorer": "^2.5.2",
     "ts-node": "^9.1.1"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/fuckshitter/sexxxydex.git",
+  "author": "EOSDOGEOFFICIAL <babyeosofficial1@gmail.com>",
+  "license": "MIT"
 }
